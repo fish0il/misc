@@ -113,7 +113,7 @@ api.tlwh.top/ceshi/dataapi.php [关键]
 
 这个抓包记录，相关人员或感兴趣的小伙伴可以拿去研究
 
-[burp data](./世界杯答题赢取流量红包2.burp.data)
+[burp data](https://github.com/fish0il/misc/blob/master/%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90%E5%88%A9%E7%94%A8%E4%BA%BA%E6%80%A7+XSS%E5%9C%A8%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BC%A0%E6%92%AD%E7%9A%84%E6%81%B6%E6%84%8F%E9%93%BE%E6%8E%A5/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AD%94%E9%A2%98%E8%B5%A2%E5%8F%96%E6%B5%81%E9%87%8F%E7%BA%A2%E5%8C%852.burp.data?raw=true)
 
 
 
